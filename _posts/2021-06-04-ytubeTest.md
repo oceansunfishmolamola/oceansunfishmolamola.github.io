@@ -14,5 +14,11 @@ title: "공부할 때 보는 영상"
 
 {% include video id="YqRYDHLHfSw" provider="youtube" %}
 {% include video id="enjnu4KbE0Q" provider="youtube" %}
+  
+### 6. 오사카 도톤부리
 {% include video id="XZLgm0GHAnU" provider="youtube" %}
+  
+### 7. 후플퍼프
 {% include video id="FfUGHyixUyw" provider="youtube" %}
+kETMmrziGJk&list=PLve0vDguMw9PyiTtNOgD21iopWGEkr2cR&index=6
+{% include video id="kETMmrziGJk&list=PLve0vDguMw9PyiTtNOgD21iopWGEkr2cR&index=6" provider="youtube" %}
